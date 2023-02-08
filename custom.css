@@ -22,8 +22,11 @@
 }
 
 .custom-details:hover i {
-color: #rgb(0, 30, 255);
+color: rgb(0, 30, 255);
 transform: rotate(-90deg) scale (1.2);
 transition: 4s;
 
 }
+
+
+
